@@ -1,8 +1,8 @@
 {
   "name": "customonboarding",
   "version": "0.0.1",
-  "dependencies": {
-    "chalk": "2.0.0"
+  "devDependencies": {
+    "chalk": "^2.0.0"
   },
   "greenkeeper": {
     "label": "deps"
